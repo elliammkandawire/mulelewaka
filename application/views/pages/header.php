@@ -42,7 +42,7 @@
 		<div class="cl-effect-12">
 			<ul class="nav navbar-nav pull-right">
 				<li><a href="<?php echo base_url(); ?>">Home</a></li>
-				<li><a href="<?php echo  base_url(); ?>news">Blog</a></li>
+				<li><a href="<?php echo  base_url(); ?>news">News</a></li>
 				<li><a href="<?php echo  base_url(); ?>events">Events</a></li>
 				<li><a href="<?php echo  base_url(); ?>#6">Partners</a></li>
 				<li><a href="<?php echo base_url(); ?>#11">Our Team</a></li>
